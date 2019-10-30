@@ -118,7 +118,7 @@ https://github.com/nctu-arch/Dr.Opt
 python3 dropt_client.py -token [USER_TOKEN] -proj-name [PROJ_NAME] -trial [TRAIL_NUM]
 ```
 * Please remember to fill the user token!
-* To execute the train.py (our 2019/10/31 demo game program) in this package, you may need to install xgboost (pip install xgboost)
+* To execute the train.py (our 2019/10/31 demo game program) in this package, you may need to install numpy, pandas, sklearn and xgboost.
 
 
 ## 4. Result Analysis
