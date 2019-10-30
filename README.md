@@ -125,4 +125,6 @@ python3 dropt_client.py -token [USER_TOKEN] -proj-name [PROJ_NAME] -trial [TRAIL
 
 When the training is done, the results and the analysis will be shown on the project list.
 
-![](https://i.imgur.com/8y46BYK.png)
+![](https://i.imgur.com/SCNyjr8.png)
+
+![](https://i.imgur.com/7D70Jcp.png)
