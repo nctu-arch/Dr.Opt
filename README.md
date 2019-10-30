@@ -101,7 +101,7 @@ for i in range(project_trial):
 ## 3. Client Code Sample
 
 ### Training code and dropt client, please download from:
-https://git.dataarch.myds.me/cysun/dropt_client_sample
+https://github.com/nctu-arch/Dr.Opt
 
 ```
 .
