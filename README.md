@@ -8,7 +8,7 @@ The service is still developing, and our server is not available yet. We will up
 ## 1. Create account and get token
 ### Go to [Dropt Website]([DROPT_IP]) and create an account by "New Customer"
 
-![](https://i.imgur.com/OSLZaLE.png)
+![](https://i.imgur.com/jVBDmRM.png)
 
 ### Get the access token
 
