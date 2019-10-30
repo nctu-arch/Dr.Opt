@@ -14,12 +14,12 @@ The service is still developing, and our server is not available yet. We will up
 
 After creating the account, click "My Account" -> "My tokens"
 
-![](https://i.imgur.com/n0P5kXA.png)
+![](https://i.imgur.com/FOjAhgY.png)
 
 The string on the "My tokens" page is your dropt client token.
 (The USER_TOKEN in the following sample code)
 
-![](https://i.imgur.com/QQvqHlc.png)
+![](https://i.imgur.com/XCWFp2i.png)
 
 ## 2. Run the Experiment
 1. put the [Dropt package](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/nctu-arch/Dr.Opt/blob/master/dropt.zip) into your working directory
@@ -125,6 +125,8 @@ python3 dropt_client.py -token [USER_TOKEN] -proj-name [PROJ_NAME] -trial [TRAIL
 
 When the training is done, the results and the analysis will be shown on the project list.
 
-![](https://i.imgur.com/SCNyjr8.png)
+![](https://i.imgur.com/u96FW8D.png)
 
-![](https://i.imgur.com/7D70Jcp.png)
+![](https://i.imgur.com/I3cNOEe.png)
+
+
