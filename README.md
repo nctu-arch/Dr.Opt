@@ -22,7 +22,7 @@ The string on the "My tokens" page is your dropt client token.
 ![](https://i.imgur.com/QQvqHlc.png)
 
 ## 2. Run the Experiment
-1. put the [Dropt package]() into your working directory
+1. put the [Dropt package](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/nctu-arch/Dr.Opt/blob/master/dropt.zip) into your working directory
 ```
 .
 ├── dropt
